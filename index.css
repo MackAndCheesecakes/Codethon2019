@@ -1,0 +1,52 @@
+/*
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color:rgb(38, 209, 221);
+}
+
+#c1 {
+    background-color:purple;
+}
+
+img {
+height:200px;
+width:200px;
+}
+#image1 {
+  position: absolute;
+height:100%;
+width:100%;
+top:0%;
+left:0%;
+}
+
+.centered {
+  text-align:center;
+}
+#image2 {
+  border-right: 1px solid green;
+  position: absolute;
+height:400px;
+width:400px;
+top:0px;
+left:400px;
+}
+
+#container1 {
+  background-color: red;
+  position: absolute;
+  height: 25%;
+  width: 55%;
+  top: 0x;
+  left: 0x;
+}
+#container2 {
+  background-color:yellow;
+  border-right: 1px solid green;
+  position: absolute;
+  height:50%;
+  width:50%;
+  top:0px;
+  left;25px;
+}
+*/
